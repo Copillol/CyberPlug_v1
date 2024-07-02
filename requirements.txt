@@ -1,0 +1,5 @@
+ipaddress
+concurrent.futures
+subprocess
+json
+python-nmap
